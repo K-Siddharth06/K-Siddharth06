@@ -125,8 +125,8 @@ const siddharth = {
 <a href="https://www.linkedin.com/in/siddharth-k-69a01a299/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0c4a6e?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn" />
 </a>
-<a href="mailto:ksiddharth2006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ksiddharth2006-0c4a6e?style=for-the-badge&logo=gmail&logoColor=7dd3fc" alt="Email" />
+<a href="https://leetcode.com/u/K-Siddharth/">
+  <img src="https://img.shields.io/badge/LeetCode-K--Siddharth-0c4a6e?style=for-the-badge&logo=leetcode&logoColor=7dd3fc" alt="LeetCode" />
 </a>
 
 </div>
