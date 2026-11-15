@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0c4a6e&height=220&section=header&text=Siddharth%20K&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=CSE%20%28Data%20Science%29%20Student%20%7C%20Aspiring%20Software%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0c4a6e&height=220&section=header&text=K%20Siddharth&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=CSE%20%28Data%20Science%29%20Student%20%7C%20Aspiring%20Software%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="header banner" />
 
 <a href="https://github.com/K-Siddharth06">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+things+with+Python+%26+Java;Backend+%7C+Data+%7C+Machine+Learning;Turning+data+into+insights+and+ideas+into+code;Always+learning%2C+always+shipping" alt="Typing SVG" />
