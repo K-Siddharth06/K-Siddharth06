@@ -101,18 +101,9 @@ const siddharth = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=K-Siddharth06&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Siddharth06&layout=compact&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=K-Siddharth06&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc&hide_border=true" alt="Contribution Graph" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-Siddharth06&theme=tokyonight" alt="Profile Details" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K-Siddharth06&theme=tokyonight" alt="GitHub Stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K-Siddharth06&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
